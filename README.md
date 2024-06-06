@@ -1,2 +1,2 @@
-# TC-Computacao-Evolucionaria
-Repositório dedicado a armazenar o trabalho final da disciplina de computação evolucionária.
+# computacao_evolucionaria_tc
+Trabalho computacional da disciplina de Computação Evolucionária do curso de Engenharia de Sistemas, UFMG. 
